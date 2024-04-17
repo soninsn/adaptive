@@ -23,8 +23,10 @@
     color: var(--color-white, #fff);
     text-align: center;
     font-size: 35px;
+    padding-right: 23px;
+    line-height: 41px;
     font-weight: 700;
-    margin-bottom: 17px;
+    margin-bottom: 19px;
 }
 
 .questions__text {
@@ -72,7 +74,7 @@
     font-weight: 500;
     border-radius: 50px;
     background: #15A9CB;
-    margin-bottom: 50px;
+    margin-bottom: 52px;
 }
 
 .form__text-approv {

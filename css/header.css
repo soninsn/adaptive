@@ -23,9 +23,11 @@
 .header__text {
     color: var(--color-white, #fff);
     text-align: center;
+    padding-top: 2px;
     font-size: 23.85px;
+    line-height: 28px;
     font-weight: 400;
-    margin-bottom: 3px;
+    margin-bottom: 5px;
 }
 
 .header__call {
